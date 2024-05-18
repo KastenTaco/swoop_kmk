@@ -1,3 +1,5 @@
+UNDER CONSTRUCTION... ONLY UP TO DATE FILE IS code.py IN CONFIG FOLDER!!!!!!
+
 # Swoop
 
 A WIP fork of [David Barr's Sweep](https://github.com/davidphilipbarr/Sweep), which is itself based on the fabulous [Ferris by Pierre Chevalier](https://github.com/pierrechevalier83/ferris).
